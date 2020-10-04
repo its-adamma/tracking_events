@@ -22,3 +22,7 @@ August
   HB Whiteboarding Wednesday
 	BL4BT Community
   Girl Geek X - lightening Talks, 1:1 networking
+September
+  	HB Target Graduates Engineer Open House
+	SIGNAL Conf
+	A Conversation at the Intersection of Tech, Equity & Criminal Justice Reform
