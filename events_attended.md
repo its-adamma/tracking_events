@@ -22,3 +22,7 @@ August
   HB Whiteboarding Wednesday
 	BL4BT Community
   Girl Geek X - lightening Talks, 1:1 networking
+Sep
+  HB Target Hackbright Grads
+  SIGNAL Conference
+  
