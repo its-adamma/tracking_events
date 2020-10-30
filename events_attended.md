@@ -25,4 +25,12 @@ August
 September
   	HB Target Graduates Engineer Open House
 	SIGNAL Conf
-	A Conversation at the Intersection of Tech, Equity & Criminal Justice Reform
+	Twilio: A Conversation at the Intersection of Tech, Equity & Criminal Justice Reform
+
+October
+	Advancing Women in Tech
+	Girl Geek Dinner: Virtual Inflection Talks and Networking 
+	Womxn Level Up: Including Class Straddlers in Tech & Talking about Pay
+	Target Demo Day
+	/dev color/ Google AMA Career Corner
+	
