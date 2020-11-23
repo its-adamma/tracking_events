@@ -33,4 +33,9 @@ October
 	Womxn Level Up: Including Class Straddlers in Tech & Talking about Pay
 	Target Demo Day
 	/dev color/ Google AMA Career Corner
+
+November
+	Coded Bias online Premiere 
+	Coded Bias Panel
+	AfroTech World Conference
 	
