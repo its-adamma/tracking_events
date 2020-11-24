@@ -38,4 +38,5 @@ November
 	Coded Bias online Premiere 
 	Coded Bias Panel
 	AfroTech World Conference
+	Face of a Founder Summit
 	
