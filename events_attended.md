@@ -4,6 +4,7 @@
 
 
 # Tech Events Attended in 2020
+covid has many of us at home, but that hasn't stopped opportunites to learn
 
 ### April
 
