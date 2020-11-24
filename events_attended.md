@@ -1,6 +1,4 @@
-<img src="https://ibb.co/8Pw0QGd"
-     alt="Adamma Bitmoji"
-     style="float: left; margin-right: 10px;" />
+<img src="https://i.ibb.co/vLWHMfQ/abitmoji.jpg">
 
 April	
   Twilio Signapore Webinar
