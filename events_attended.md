@@ -51,6 +51,7 @@ covid has many of us at home, but that hasn't stopped opportunites to learn
 ### November
 - [x]	Coded Bias online Premiere 
 - [x]	Coded Bias Panel
+- [x]	ATL & DC BWTT Present Cloud Solutions for Startups
 - [x]	AfroTech World Conference
 - [x]	Ethical Data Science, Matthew Applies Algorithms to Advise Strategic Decisions
 - [x]	Face of a Founder Summit
