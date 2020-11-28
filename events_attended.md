@@ -55,4 +55,7 @@ covid has many of us at home, but that hasn't stopped opportunites to learn
 - [x]	AfroTech World Conference
 - [x]	Ethical Data Science, Matthew Applies Algorithms to Advise Strategic Decisions
 - [x]	Face of a Founder Summit
+
+### December
+- [ ]	Nigerian Tech Summit + birthday 🥳
 	
