@@ -58,4 +58,5 @@ covid has many of us at home, but that hasn't stopped opportunites to learn
 
 ### December
 - [ ]	Nigerian Tech Summit + birthday 🥳
+- [ ]   Tech Town Hall 
 	
